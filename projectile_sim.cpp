@@ -39,5 +39,5 @@ int main(){
     cout<<"Total Distance Travelled: "<<R<<" m"<<endl;
 
     //Run Matlab script
-    system("/Applications/MATLAB_R2023b.app/bin/matlab -batch plot_projectile");
+    system("/Applications/MATLAB_R2023b.app/bin/matlab -batch plot_projectile"); //Adjust accordingly as the path location on your local computer.
 }
