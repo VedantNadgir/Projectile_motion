@@ -16,5 +16,3 @@ grid on;
 
 %Save the plot as an image
 saveas(gcf,'projectile_motion.png');
-set(gcf,'Visible','on');
-pause;
