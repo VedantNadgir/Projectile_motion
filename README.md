@@ -1,6 +1,5 @@
 # Projectile_motion
-Simulate the projectile motion and display the graph.
-Requires MatLab and C++ compiler
+Simulate the projectile motion and display the graph. Requires MatLab and C++ compiler.
 Sample output:
 
 
